@@ -1,0 +1,1001 @@
+hora;dia_semana;num_paradas;transbordos;estacion_orig;estacion_dest;linea;tiempo_viaje
+11;4;3;2;Granada;Granada;T30A;24.2
+19;0;6;1;Universidades;Terminal;A33;37.9
+15;6;3;2;Centenario;Terminal;T30A;21.0
+12;0;8;0;San Bosco;Capri;P1;29.9
+11;5;2;1;Salomia;Menga;A33;13.5
+15;5;9;0;Capri;Universidades;T31A;33.1
+15;2;3;1;UniValle;Calima;P1;18.4
+8;5;5;2;Capri;Menga;T30A;33.6
+12;3;8;1;Granada;Terminal;P1;36.8
+7;1;2;1;Salomia;Universidades;T30A;18.1
+6;1;6;0;Salomia;Granada;P1;27.0
+16;4;5;0;Salomia;UniValle;T30A;18.8
+10;4;9;1;Estadio;Centenario;A33;45.4
+6;1;5;2;Granada;Salomia;T31A;31.3
+5;6;2;2;Calima;Capri;T30A;17.4
+16;4;5;0;Capri;Centenario;P1;20.6
+16;2;4;2;Calima;San Bosco;T30A;26.6
+21;5;7;0;San Bosco;Universidades;T30A;27.7
+14;1;6;2;Terminal;Estadio;T30A;37.3
+20;4;2;1;Menga;Granada;P1;15.4
+19;1;5;0;Menga;Calima;T31A;26.6
+19;3;7;0;Calima;Salomia;A33;38.5
+16;0;7;1;Terminal;Estadio;T31A;32.7
+7;5;5;0;Terminal;Calima;T30A;24.4
+9;1;9;2;UniValle;San Bosco;P1;58.8
+11;0;4;2;San Bosco;Terminal;T31A;22.7
+13;4;3;0;Granada;Menga;T30A;9.4
+11;0;4;2;Terminal;Capri;A33;25.5
+22;5;5;0;Universidades;UniValle;A33;18.7
+8;1;6;1;Menga;Calima;A33;36.4
+18;3;3;0;Universidades;Salomia;T30A;14.6
+22;6;2;1;San Bosco;Centenario;P1;13.7
+13;4;4;2;Terminal;Universidades;T31A;25.7
+6;1;5;1;Capri;Terminal;A33;28.7
+19;5;4;2;Menga;Universidades;T30A;30.2
+11;4;3;0;UniValle;Salomia;T30A;12.6
+16;2;8;2;Centenario;Universidades;T31A;45.1
+12;0;4;0;UniValle;Calima;A33;18.0
+19;6;2;0;Salomia;Centenario;T30A;8.4
+7;5;2;1;Centenario;Granada;T31A;16.0
+18;2;1;1;Estadio;Universidades;P1;12.3
+21;1;4;1;Terminal;Menga;P1;19.9
+8;3;9;1;San Bosco;Centenario;P1;54.4
+22;4;7;2;Menga;San Bosco;A33;39.7
+12;0;7;2;Estadio;UniValle;T31A;41.1
+8;4;7;2;San Bosco;Calima;T31A;47.3
+6;6;8;0;Calima;Estadio;T30A;27.4
+10;1;1;2;Terminal;Centenario;T30A;14.5
+14;4;8;2;Granada;Salomia;T30A;46.0
+8;0;4;2;Granada;Terminal;T31A;29.4
+22;1;4;1;Terminal;Centenario;T30A;19.8
+16;4;4;2;Centenario;Calima;T31A;25.8
+6;3;6;0;Salomia;Granada;T31A;24.5
+14;5;7;1;Salomia;Terminal;P1;26.5
+8;1;6;0;Centenario;Menga;T30A;35.8
+18;5;1;2;Granada;Salomia;P1;14.2
+20;1;8;1;Capri;Terminal;A33;38.0
+19;3;7;0;Centenario;Universidades;A33;40.0
+12;5;6;2;Menga;Calima;A33;32.9
+18;2;6;0;Granada;San Bosco;T31A;30.4
+12;0;5;0;Capri;Salomia;T31A;21.3
+20;2;6;0;Estadio;Capri;T31A;25.1
+17;4;9;2;Capri;Menga;T30A;60.1
+22;3;9;2;Estadio;UniValle;P1;47.5
+19;2;8;0;San Bosco;Salomia;T31A;39.1
+17;1;9;1;Universidades;Granada;P1;48.5
+13;4;8;1;San Bosco;Calima;P1;41.6
+19;4;8;2;Granada;Universidades;P1;50.4
+17;2;1;2;Estadio;UniValle;T30A;16.6
+5;2;5;2;Granada;UniValle;T30A;31.1
+11;3;4;2;Centenario;Menga;A33;26.0
+13;0;2;2;Terminal;Terminal;A33;17.9
+5;2;8;1;Menga;Granada;P1;41.8
+16;6;3;2;UniValle;Terminal;A33;17.8
+12;2;4;0;Granada;Universidades;P1;16.0
+15;5;7;0;Menga;UniValle;T30A;26.8
+21;1;9;1;Centenario;Granada;T30A;40.2
+12;6;2;0;Capri;Granada;T30A;9.8
+7;6;3;1;Centenario;Estadio;T31A;20.7
+7;5;4;1;San Bosco;Calima;P1;24.1
+5;5;1;0;Capri;UniValle;T30A;3.0
+9;4;7;2;UniValle;UniValle;P1;45.4
+14;0;2;0;Estadio;Granada;A33;9.8
+11;1;5;0;Terminal;Terminal;A33;26.5
+13;3;1;1;Menga;UniValle;T30A;9.5
+11;6;3;0;Terminal;Granada;P1;7.1
+13;3;2;1;Universidades;UniValle;T30A;14.3
+12;2;1;2;Centenario;Granada;A33;15.9
+16;2;7;2;Granada;Estadio;T30A;37.6
+6;3;5;2;Estadio;Calima;P1;29.7
+5;2;1;0;Universidades;Granada;A33;3.0
+20;0;6;1;Centenario;Centenario;T31A;29.1
+9;5;5;2;Calima;UniValle;A33;32.9
+7;2;3;1;Granada;Universidades;T31A;19.7
+16;4;7;1;Capri;Calima;T30A;31.9
+12;2;9;2;San Bosco;Estadio;T30A;48.1
+7;1;9;2;Menga;Granada;P1;58.8
+5;0;9;1;UniValle;Universidades;T31A;41.9
+7;1;2;2;UniValle;Granada;T30A;21.1
+9;1;3;1;Capri;Terminal;T31A;18.3
+19;4;7;1;Salomia;UniValle;T30A;42.3
+18;0;5;2;UniValle;Salomia;A33;35.4
+7;0;2;0;Menga;Menga;T30A;11.4
+5;0;3;2;Capri;San Bosco;P1;23.4
+9;0;6;0;Estadio;Terminal;A33;35.0
+18;0;7;1;UniValle;Universidades;P1;42.0
+11;4;9;1;Terminal;Terminal;A33;44.9
+13;2;1;0;Capri;Capri;T31A;3.6
+19;1;7;1;Menga;Granada;P1;41.2
+19;0;8;0;Terminal;Granada;T30A;41.8
+14;6;3;0;Granada;Centenario;T31A;12.3
+17;2;4;1;Granada;San Bosco;T30A;27.3
+11;2;6;0;UniValle;San Bosco;A33;25.5
+21;1;7;2;Terminal;Capri;A33;36.9
+8;4;4;2;San Bosco;UniValle;T30A;33.1
+9;3;8;1;Centenario;Menga;T30A;47.0
+11;3;5;1;Granada;Salomia;T31A;24.2
+17;2;1;0;San Bosco;Salomia;T30A;3.0
+19;5;4;0;Estadio;Estadio;P1;17.7
+15;5;3;0;Capri;Centenario;P1;13.1
+8;1;9;0;Centenario;Estadio;T30A;47.2
+17;3;8;2;Universidades;UniValle;P1;55.4
+11;2;1;2;Menga;Estadio;T30A;16.0
+6;4;6;1;Capri;Estadio;T31A;27.3
+14;3;9;0;Centenario;Capri;P1;37.0
+17;2;7;0;Menga;Capri;P1;34.7
+10;2;4;1;Centenario;Estadio;T30A;23.1
+16;0;1;0;Terminal;Terminal;P1;3.0
+16;4;2;0;Estadio;Calima;A33;5.2
+15;0;5;0;Calima;Calima;T31A;20.3
+11;1;5;0;UniValle;UniValle;T31A;23.3
+5;0;8;0;Centenario;Salomia;P1;33.2
+5;6;6;1;Menga;Centenario;P1;27.2
+17;0;8;0;Menga;San Bosco;A33;42.9
+13;6;2;1;Terminal;UniValle;A33;9.1
+7;3;3;0;San Bosco;Estadio;P1;14.6
+11;5;6;2;Capri;Capri;P1;31.4
+10;2;3;2;Calima;Granada;A33;21.5
+12;6;6;2;Salomia;Terminal;T30A;34.8
+13;4;6;2;UniValle;Universidades;A33;32.7
+9;0;2;1;Universidades;Capri;T30A;14.1
+5;6;7;1;Salomia;Calima;T31A;30.6
+14;4;2;0;Capri;Centenario;T31A;7.1
+16;5;6;2;UniValle;Capri;A33;25.6
+19;5;1;1;Menga;Terminal;T30A;13.3
+13;0;3;0;Universidades;San Bosco;A33;10.5
+21;1;2;0;Centenario;Estadio;A33;9.5
+21;0;7;1;San Bosco;Granada;T30A;31.9
+16;3;4;2;Calima;Calima;A33;25.1
+11;6;8;0;Centenario;Calima;T31A;25.3
+6;2;6;2;San Bosco;Centenario;P1;33.7
+7;1;4;2;Estadio;Menga;P1;30.6
+21;0;5;2;Terminal;Salomia;A33;30.7
+9;4;9;0;UniValle;San Bosco;T30A;48.4
+21;1;7;2;Centenario;Calima;T30A;36.5
+21;6;9;0;San Bosco;Salomia;T31A;31.1
+21;1;7;2;Salomia;Calima;T30A;42.3
+6;6;1;0;Terminal;Estadio;T30A;6.2
+6;0;8;2;San Bosco;Salomia;T31A;44.5
+9;6;4;1;Granada;Terminal;A33;24.9
+5;1;3;2;Estadio;Menga;P1;26.7
+5;4;7;2;Capri;Estadio;T31A;40.5
+6;5;3;0;Centenario;Terminal;A33;12.0
+16;1;8;0;Calima;Granada;T31A;30.5
+10;6;6;2;Estadio;San Bosco;A33;29.2
+8;5;5;1;Terminal;San Bosco;T31A;28.1
+15;6;4;1;Granada;Universidades;A33;17.7
+21;4;8;0;UniValle;Universidades;T31A;31.6
+10;6;8;1;Salomia;Salomia;A33;31.8
+9;0;1;2;Calima;San Bosco;T31A;12.6
+6;2;9;0;Centenario;Centenario;P1;36.2
+10;1;5;2;Calima;Salomia;P1;31.7
+15;2;4;0;Estadio;Universidades;T30A;20.4
+20;6;6;0;Terminal;Granada;A33;23.0
+20;4;6;0;UniValle;Calima;T31A;26.5
+5;1;2;0;Menga;Terminal;A33;5.2
+13;6;8;1;Granada;Capri;P1;33.8
+10;5;7;2;Centenario;Salomia;A33;34.9
+20;3;1;2;Menga;Granada;T31A;14.8
+7;6;5;2;Salomia;Terminal;A33;32.5
+8;2;6;0;UniValle;San Bosco;T31A;36.1
+7;1;4;1;UniValle;Calima;P1;26.9
+11;2;2;2;Granada;Terminal;P1;18.7
+13;1;4;1;Universidades;Menga;P1;17.9
+5;6;1;0;Menga;Universidades;T30A;3.4
+12;0;7;2;San Bosco;Terminal;P1;41.7
+11;5;2;1;Calima;Capri;A33;13.3
+22;6;2;0;Centenario;Granada;T30A;3.0
+12;2;9;1;Universidades;Calima;P1;41.9
+5;3;5;2;San Bosco;Centenario;A33;34.5
+15;3;2;2;Terminal;Estadio;A33;18.1
+22;4;9;0;Centenario;Terminal;A33;38.4
+14;1;9;0;Centenario;Centenario;T31A;41.0
+7;2;1;0;Granada;Centenario;T30A;5.2
+11;4;3;1;Terminal;UniValle;A33;19.2
+20;2;4;1;Calima;Capri;T31A;22.6
+20;1;7;1;Capri;Capri;P1;35.7
+21;6;4;0;San Bosco;UniValle;A33;15.0
+6;6;2;2;Centenario;Menga;T31A;16.0
+5;3;7;2;Universidades;Estadio;A33;38.5
+20;6;6;1;San Bosco;Universidades;T30A;24.7
+16;6;3;1;San Bosco;Granada;T30A;12.4
+9;0;6;2;Granada;Calima;P1;45.2
+9;3;6;2;Centenario;Granada;A33;42.8
+13;4;5;1;Terminal;Estadio;T31A;28.4
+13;5;4;1;Menga;Granada;P1;22.4
+7;0;1;2;Capri;UniValle;A33;15.6
+20;4;6;0;Granada;Capri;P1;22.6
+20;1;2;1;Salomia;Granada;T31A;13.0
+7;0;3;2;Centenario;Salomia;P1;25.0
+5;4;8;2;Granada;Centenario;P1;39.6
+15;1;6;2;Calima;Centenario;P1;34.2
+21;3;3;2;Capri;Terminal;A33;22.5
+12;5;7;0;UniValle;Estadio;T31A;23.7
+8;1;4;2;Salomia;Menga;T30A;30.3
+10;6;9;1;Estadio;Salomia;A33;34.6
+12;2;5;0;Granada;UniValle;T30A;21.4
+7;1;3;2;San Bosco;San Bosco;T30A;30.1
+20;1;2;0;Menga;UniValle;A33;11.0
+7;5;2;1;UniValle;Centenario;A33;15.6
+22;2;3;2;Granada;Menga;T31A;24.0
+18;6;2;1;Granada;Menga;T31A;13.7
+22;4;4;2;Universidades;Salomia;P1;23.2
+6;4;2;2;Universidades;Terminal;T30A;17.7
+7;1;9;2;UniValle;Estadio;T31A;57.2
+20;2;2;2;Terminal;Universidades;P1;18.7
+13;2;9;2;Universidades;Capri;T31A;50.3
+8;6;6;0;San Bosco;Salomia;A33;31.8
+5;5;1;2;Salomia;Menga;T31A;13.7
+8;3;4;2;Estadio;San Bosco;T30A;28.5
+5;4;1;0;Capri;Calima;T31A;4.3
+18;5;6;0;Estadio;Menga;T30A;27.0
+20;0;4;0;Estadio;Terminal;A33;18.2
+12;4;3;0;Capri;Terminal;T30A;12.6
+11;5;3;0;Universidades;Menga;T31A;10.8
+7;4;9;0;UniValle;Terminal;P1;47.9
+21;3;6;2;Capri;Salomia;A33;34.6
+5;0;9;2;Centenario;Menga;T31A;48.8
+20;3;5;1;Calima;Menga;A33;22.0
+16;6;2;2;Terminal;Estadio;A33;16.5
+18;0;8;2;Salomia;Capri;T31A;53.4
+10;1;5;0;Menga;San Bosco;T31A;24.3
+10;5;2;0;Universidades;Terminal;P1;6.3
+17;0;4;2;Terminal;Estadio;A33;33.4
+12;6;9;1;Capri;Centenario;A33;40.5
+6;6;4;0;Calima;Centenario;T31A;13.5
+5;3;4;2;Menga;Universidades;T30A;25.7
+19;4;2;2;Salomia;Universidades;T31A;20.1
+5;0;6;1;Salomia;Granada;A33;30.0
+9;5;2;1;Universidades;Salomia;T31A;16.5
+20;0;7;0;Capri;Salomia;P1;27.9
+8;2;3;1;Terminal;UniValle;T30A;24.5
+7;4;3;2;UniValle;San Bosco;T31A;24.8
+21;5;5;2;Terminal;Menga;P1;25.3
+21;5;3;1;Terminal;Terminal;A33;16.8
+16;1;2;1;Salomia;San Bosco;T31A;15.9
+18;3;9;1;UniValle;Granada;A33;52.6
+10;1;2;1;UniValle;Centenario;P1;14.3
+7;5;2;0;Universidades;Centenario;A33;13.2
+13;4;8;1;Menga;UniValle;P1;41.1
+9;0;9;0;Granada;Estadio;P1;49.2
+21;0;7;2;Estadio;San Bosco;P1;38.5
+18;4;3;1;Estadio;Estadio;T31A;22.9
+7;5;9;0;Salomia;Universidades;A33;43.4
+5;6;3;1;Granada;Centenario;A33;16.5
+5;0;5;2;Menga;Terminal;T30A;30.3
+7;6;9;2;Granada;Granada;T30A;51.6
+22;0;3;2;Universidades;Menga;T30A;22.3
+14;0;7;1;Terminal;Centenario;T30A;33.8
+7;3;1;1;Salomia;Terminal;A33;9.3
+12;3;4;0;UniValle;Capri;P1;17.3
+18;2;4;2;Salomia;Salomia;P1;29.7
+22;1;7;1;Estadio;Granada;T31A;34.8
+19;4;8;2;Menga;San Bosco;P1;47.8
+6;4;1;2;Granada;Terminal;A33;13.0
+14;4;5;0;Menga;Centenario;A33;23.2
+6;2;7;0;Universidades;Centenario;A33;27.6
+21;3;4;0;Salomia;Centenario;T31A;18.0
+12;5;4;0;Capri;Calima;T30A;12.6
+5;6;4;2;Salomia;Salomia;P1;25.8
+13;6;6;0;UniValle;Salomia;A33;20.8
+15;5;7;0;Salomia;Calima;A33;24.3
+20;2;2;0;Calima;Centenario;T30A;8.5
+11;5;5;0;Universidades;UniValle;A33;15.2
+14;4;4;2;San Bosco;UniValle;P1;28.7
+7;1;3;0;Universidades;Calima;T31A;19.0
+22;0;7;2;Granada;Capri;A33;38.7
+17;6;6;1;San Bosco;Universidades;P1;32.8
+11;3;7;2;Granada;Calima;A33;41.0
+8;3;5;2;Granada;Universidades;T30A;37.1
+17;2;6;0;UniValle;Terminal;A33;29.3
+5;3;5;1;UniValle;Capri;A33;29.2
+12;4;7;1;Centenario;Granada;T31A;33.6
+18;6;2;1;Terminal;Universidades;T30A;12.7
+20;5;5;1;Estadio;Salomia;T30A;26.1
+18;4;6;2;Terminal;Terminal;T31A;42.7
+16;2;6;1;Terminal;Salomia;A33;30.7
+19;4;5;2;Estadio;Capri;P1;34.3
+6;5;7;2;Capri;Universidades;T30A;36.6
+6;1;8;2;San Bosco;Estadio;T30A;49.4
+21;2;7;1;Menga;Capri;A33;36.2
+14;1;5;0;Terminal;Capri;A33;22.0
+10;0;1;0;Centenario;Estadio;T30A;5.6
+19;1;5;1;Salomia;Terminal;A33;30.6
+15;0;2;0;Salomia;Universidades;P1;7.7
+9;0;5;0;Granada;Universidades;T30A;26.6
+5;1;5;2;Estadio;Centenario;P1;29.9
+12;2;2;2;Granada;Salomia;P1;17.7
+16;5;5;1;Calima;Capri;A33;22.1
+16;4;4;1;Calima;Capri;P1;21.3
+9;4;1;0;Centenario;Menga;A33;4.9
+11;5;3;2;Menga;Granada;T31A;21.2
+8;6;1;1;UniValle;Capri;A33;9.8
+10;6;5;1;UniValle;San Bosco;P1;23.2
+17;0;4;1;Estadio;Granada;T31A;29.0
+19;0;7;1;Estadio;San Bosco;A33;41.9
+7;2;5;1;Terminal;Universidades;P1;36.7
+12;3;4;1;Calima;Granada;T30A;22.5
+20;1;2;0;Terminal;Capri;T30A;7.5
+17;0;4;2;UniValle;Estadio;A33;33.7
+22;4;2;2;San Bosco;Salomia;A33;18.2
+14;2;8;1;San Bosco;San Bosco;T30A;33.8
+21;1;3;2;Estadio;Centenario;P1;22.6
+9;2;9;2;Granada;Granada;P1;58.6
+13;1;4;2;UniValle;Capri;P1;30.0
+16;1;6;1;San Bosco;Granada;A33;28.4
+5;5;5;1;UniValle;Capri;T31A;22.2
+5;0;1;2;Universidades;Capri;T31A;16.7
+19;2;9;2;Salomia;Capri;T31A;58.0
+6;2;1;1;Calima;Menga;T31A;8.9
+20;5;8;0;Terminal;Salomia;T31A;27.0
+12;4;9;2;UniValle;Estadio;A33;48.5
+17;4;9;0;Salomia;Estadio;A33;47.2
+5;6;1;2;Universidades;Granada;T31A;12.0
+20;0;2;0;Terminal;Granada;A33;7.0
+11;0;1;0;UniValle;Capri;A33;3.0
+9;3;2;0;Estadio;Menga;T31A;8.9
+7;5;8;1;Salomia;Capri;P1;44.0
+16;4;5;0;Terminal;Menga;A33;22.6
+20;1;7;0;UniValle;Capri;P1;31.3
+9;2;2;0;Salomia;San Bosco;A33;10.9
+18;0;8;2;Universidades;San Bosco;A33;51.5
+9;2;6;0;UniValle;Universidades;T31A;32.3
+19;2;8;2;UniValle;Capri;A33;54.0
+21;3;1;0;UniValle;Salomia;T30A;3.0
+18;4;1;0;Centenario;Centenario;T30A;4.2
+9;0;7;1;Menga;Universidades;T31A;41.4
+16;2;8;2;Centenario;Granada;P1;46.3
+20;0;3;0;Estadio;Terminal;P1;11.6
+20;1;5;2;Universidades;Capri;P1;27.7
+11;3;1;2;Centenario;San Bosco;T30A;14.6
+8;1;7;1;Terminal;Terminal;P1;42.5
+5;0;5;1;Menga;Menga;P1;24.9
+9;6;8;1;Granada;Terminal;T31A;40.8
+14;0;8;1;Menga;Salomia;P1;37.2
+9;4;9;1;Calima;Capri;T30A;55.6
+8;2;7;1;Calima;Estadio;T30A;43.7
+6;2;1;1;UniValle;Terminal;T30A;8.8
+14;1;3;1;Menga;Estadio;T31A;15.4
+5;3;8;0;Granada;Menga;T31A;33.3
+9;6;3;2;Menga;Universidades;A33;24.4
+17;5;8;1;Estadio;Estadio;P1;41.3
+8;2;1;1;Estadio;Universidades;T31A;10.8
+20;4;5;2;Granada;San Bosco;T30A;29.2
+20;1;4;0;Menga;Centenario;T30A;12.0
+6;1;5;2;Salomia;Capri;T31A;34.6
+21;5;8;2;Estadio;Terminal;T31A;35.9
+16;4;4;1;Estadio;San Bosco;T31A;17.9
+22;3;4;2;San Bosco;San Bosco;A33;27.1
+7;4;3;2;Menga;Calima;T30A;23.0
+5;3;7;1;Estadio;UniValle;A33;32.8
+5;4;3;1;Centenario;Salomia;A33;18.7
+15;4;3;1;Universidades;Universidades;P1;21.1
+9;0;5;1;Menga;Centenario;T30A;33.1
+16;1;5;2;Calima;Calima;T30A;30.1
+7;4;6;2;San Bosco;UniValle;T31A;42.7
+5;5;8;0;Estadio;Centenario;T31A;24.9
+5;4;6;0;San Bosco;Salomia;P1;24.3
+12;2;1;2;Calima;Universidades;A33;13.3
+14;1;8;0;Granada;Capri;T31A;33.9
+15;2;8;2;Granada;Salomia;T31A;47.5
+16;1;9;0;Menga;Terminal;T30A;33.9
+17;2;9;1;Calima;San Bosco;T30A;51.4
+16;4;2;0;Capri;UniValle;T31A;4.7
+18;4;2;1;Capri;UniValle;T30A;14.5
+6;0;3;1;Menga;Centenario;P1;15.9
+22;5;1;1;UniValle;UniValle;T31A;5.6
+7;2;4;1;San Bosco;Universidades;T30A;28.7
+21;3;4;0;San Bosco;Terminal;P1;17.3
+12;0;9;2;Granada;Salomia;T30A;49.4
+14;2;9;1;Capri;San Bosco;T30A;41.7
+6;2;9;0;Centenario;Terminal;T30A;37.7
+13;0;7;1;Terminal;Calima;T31A;37.6
+11;4;2;0;Estadio;Capri;A33;8.4
+8;2;5;0;Estadio;Estadio;T30A;28.9
+22;4;4;0;Estadio;Terminal;P1;15.6
+17;0;8;2;Granada;Centenario;T31A;53.4
+15;4;2;0;Calima;Calima;T31A;7.3
+8;1;6;0;Centenario;San Bosco;P1;29.0
+8;3;5;2;Salomia;Centenario;T30A;37.3
+14;6;2;2;Capri;Centenario;A33;16.2
+9;2;1;0;Centenario;Estadio;T30A;3.0
+13;5;8;2;Capri;Estadio;P1;38.9
+7;3;2;1;Centenario;Terminal;T31A;14.1
+21;6;7;1;Terminal;Centenario;A33;36.2
+7;4;9;2;Centenario;UniValle;T31A;56.2
+20;2;9;2;Centenario;Granada;P1;45.4
+8;4;8;0;Centenario;San Bosco;T30A;45.4
+22;1;9;2;San Bosco;UniValle;A33;47.5
+21;0;2;0;UniValle;San Bosco;T31A;10.1
+11;2;6;1;Menga;Granada;T31A;31.0
+9;6;4;2;San Bosco;Capri;T31A;27.4
+16;6;4;0;Calima;Granada;T30A;11.5
+21;1;5;0;Menga;Menga;A33;23.1
+17;1;3;1;Capri;Terminal;T30A;18.2
+7;2;1;2;Calima;Terminal;T30A;16.6
+13;4;8;1;Menga;Calima;T30A;40.4
+21;5;5;0;Terminal;UniValle;P1;17.6
+21;6;3;0;Terminal;Calima;P1;10.1
+20;6;7;2;Universidades;Menga;P1;33.0
+17;1;7;0;Salomia;Granada;A33;37.7
+21;3;1;2;Terminal;Terminal;T30A;8.1
+8;1;9;1;Capri;Universidades;T30A;55.6
+16;5;2;2;UniValle;Granada;P1;17.4
+13;4;5;2;Estadio;Granada;T30A;30.6
+16;4;5;0;Universidades;Menga;T30A;21.5
+13;3;8;0;Estadio;Capri;T31A;30.9
+11;6;8;2;Centenario;San Bosco;T30A;33.7
+18;1;7;0;Salomia;Centenario;T31A;37.7
+19;4;7;0;Menga;Centenario;T30A;39.4
+20;5;6;0;Granada;Menga;A33;17.9
+9;2;6;2;Terminal;San Bosco;P1;40.7
+7;0;9;0;UniValle;Terminal;T31A;50.6
+16;0;6;2;Salomia;Menga;P1;35.9
+8;0;2;0;Estadio;San Bosco;T31A;16.8
+20;6;2;1;Universidades;Calima;T31A;14.3
+11;1;5;0;Terminal;Menga;T31A;22.7
+17;3;4;0;Capri;Terminal;A33;19.5
+14;4;2;2;Terminal;Menga;T30A;19.4
+11;2;3;2;Universidades;Terminal;T31A;25.6
+18;5;7;0;Universidades;Menga;A33;30.9
+9;2;8;1;Granada;San Bosco;T31A;48.4
+7;5;6;0;Terminal;Capri;T30A;28.1
+15;6;5;0;Terminal;Salomia;T31A;16.5
+15;1;1;1;Centenario;San Bosco;A33;9.7
+22;0;8;2;Granada;UniValle;T30A;44.1
+19;1;3;0;Calima;Estadio;A33;18.7
+16;6;6;2;Calima;Capri;T30A;31.0
+13;3;3;2;Centenario;Calima;T30A;23.9
+14;3;7;1;Menga;Granada;P1;34.1
+16;6;7;1;Calima;Centenario;P1;31.3
+21;5;9;2;Centenario;San Bosco;P1;41.6
+10;4;5;0;San Bosco;Menga;T30A;22.1
+11;4;8;2;Terminal;San Bosco;T31A;45.1
+18;5;8;0;Centenario;Universidades;A33;33.6
+17;3;1;0;UniValle;Capri;A33;7.5
+12;3;5;1;Terminal;Salomia;A33;25.7
+14;3;3;0;San Bosco;Calima;P1;11.7
+13;1;1;0;San Bosco;Universidades;T30A;3.0
+22;3;4;2;Estadio;Terminal;P1;27.4
+6;2;8;1;Terminal;Universidades;T31A;38.6
+9;0;3;0;Salomia;San Bosco;T30A;17.1
+9;3;2;0;San Bosco;Calima;A33;11.7
+10;5;9;1;UniValle;San Bosco;P1;38.3
+12;0;5;2;Granada;Terminal;P1;36.6
+20;1;7;1;Menga;Granada;T31A;34.5
+17;5;2;1;Estadio;Calima;T31A;12.5
+5;0;9;0;Granada;Granada;P1;33.8
+21;5;9;0;Estadio;Capri;T31A;29.7
+11;1;4;2;UniValle;Capri;A33;29.3
+17;2;4;0;Universidades;Granada;T31A;22.4
+8;1;6;0;Terminal;Capri;T31A;30.1
+8;1;6;1;Centenario;Calima;P1;42.7
+10;5;1;0;Capri;Menga;P1;4.2
+16;6;9;2;Salomia;UniValle;T30A;43.1
+11;4;2;1;Granada;Capri;T30A;17.9
+14;3;5;2;Terminal;Capri;P1;34.5
+11;3;9;1;Salomia;San Bosco;T31A;44.4
+7;2;4;0;Universidades;Granada;T31A;23.5
+17;2;3;1;Capri;Estadio;T30A;22.6
+17;3;7;1;Salomia;Salomia;T30A;41.3
+22;4;6;0;Salomia;Centenario;T30A;25.8
+12;3;8;0;Granada;Centenario;A33;34.7
+13;6;3;2;Calima;Universidades;A33;20.5
+11;4;5;2;Capri;Capri;T30A;29.1
+5;2;4;0;Terminal;Universidades;T31A;16.3
+7;0;4;0;Universidades;Calima;T30A;19.9
+17;5;4;0;Capri;Estadio;A33;18.0
+21;6;8;1;UniValle;Salomia;T31A;30.0
+5;6;6;1;Calima;Granada;A33;27.1
+10;2;3;1;UniValle;UniValle;T31A;14.3
+10;2;5;0;Universidades;Salomia;A33;20.2
+16;1;6;2;Granada;Salomia;T31A;36.2
+17;6;5;0;Granada;UniValle;T31A;23.9
+17;1;6;1;Universidades;Menga;T31A;37.8
+19;1;8;1;Estadio;Granada;T31A;47.6
+20;5;7;0;Universidades;San Bosco;P1;22.8
+15;1;5;0;Calima;Universidades;A33;23.0
+9;4;6;1;San Bosco;Centenario;A33;35.6
+8;3;4;1;Granada;Capri;P1;29.0
+7;0;9;1;Menga;Salomia;T31A;55.4
+22;2;4;0;Calima;Calima;T31A;19.5
+19;4;1;1;Centenario;Centenario;A33;10.3
+13;0;7;1;Calima;Centenario;P1;32.8
+21;6;7;2;Calima;UniValle;T31A;32.4
+18;6;4;0;Salomia;Universidades;T31A;15.5
+19;6;3;2;Calima;Estadio;T31A;20.1
+5;4;8;2;Granada;UniValle;T30A;45.5
+7;4;5;1;San Bosco;Estadio;P1;34.4
+20;2;7;0;San Bosco;Granada;T31A;30.5
+15;3;4;1;Calima;Salomia;T30A;21.7
+16;1;4;0;Centenario;Calima;P1;20.9
+14;6;8;2;UniValle;Centenario;T31A;38.4
+20;5;8;0;Granada;Capri;A33;29.0
+12;3;2;1;Granada;Estadio;T30A;13.3
+10;5;2;1;Centenario;Universidades;T30A;11.5
+16;2;3;1;Capri;Menga;T31A;18.9
+12;2;3;0;Centenario;Granada;T31A;11.3
+8;2;1;2;Centenario;Menga;T30A;14.1
+12;0;3;2;Terminal;Granada;A33;24.0
+22;5;6;0;Estadio;San Bosco;A33;20.4
+9;3;8;1;Centenario;Universidades;P1;48.9
+13;3;6;2;Estadio;Centenario;T31A;34.5
+8;4;5;1;UniValle;Menga;A33;32.3
+21;4;4;0;Estadio;Calima;P1;15.5
+13;6;3;1;Capri;Salomia;A33;14.4
+5;4;4;2;Centenario;UniValle;T31A;25.2
+17;2;7;2;Centenario;Capri;P1;48.4
+20;3;1;1;Universidades;Salomia;P1;9.5
+17;5;7;0;Estadio;Centenario;P1;33.1
+18;2;1;1;Granada;Salomia;A33;12.3
+7;0;2;0;Centenario;Granada;T31A;10.0
+10;4;4;1;Universidades;Calima;P1;23.6
+22;2;1;2;Estadio;Centenario;T30A;14.2
+9;2;9;0;Granada;Granada;T31A;48.8
+19;0;6;0;Granada;Terminal;T30A;34.0
+6;1;1;0;Calima;Estadio;T30A;5.3
+14;3;1;2;San Bosco;Capri;P1;13.5
+22;5;6;1;UniValle;Estadio;P1;27.4
+17;6;4;2;Capri;UniValle;A33;25.3
+9;1;4;0;Salomia;Terminal;A33;22.3
+5;4;6;1;Centenario;Universidades;A33;27.2
+5;2;7;2;Terminal;UniValle;T31A;37.4
+22;0;9;0;Estadio;UniValle;A33;39.0
+19;0;5;0;Estadio;San Bosco;T30A;20.9
+21;3;9;2;Universidades;Capri;A33;51.4
+15;1;4;2;Universidades;Granada;P1;28.5
+21;6;2;2;Terminal;Calima;A33;13.5
+17;3;3;0;Estadio;Estadio;T31A;20.5
+5;2;1;2;Menga;UniValle;T31A;19.5
+6;3;6;0;Capri;Estadio;T30A;24.8
+13;5;6;2;Estadio;Estadio;T31A;29.6
+7;0;1;0;Centenario;Universidades;A33;8.8
+5;0;3;0;San Bosco;Centenario;P1;11.9
+20;4;5;1;Terminal;Capri;T31A;26.3
+10;4;3;2;Centenario;Capri;T30A;25.0
+21;6;3;2;Menga;Menga;A33;20.4
+9;2;3;0;Capri;Salomia;T30A;15.9
+9;5;5;0;Estadio;Capri;T31A;20.7
+10;1;5;0;Salomia;Estadio;T31A;19.7
+7;3;4;1;Calima;Granada;T30A;26.3
+9;6;1;1;Centenario;Estadio;A33;7.2
+9;2;5;0;San Bosco;Granada;T31A;25.0
+14;4;5;2;Salomia;Centenario;P1;31.1
+14;3;4;2;Universidades;Centenario;T31A;23.1
+21;4;6;1;Centenario;Menga;A33;28.4
+18;3;4;1;Universidades;Granada;T31A;29.9
+13;1;7;0;Estadio;Capri;T30A;28.7
+18;2;7;2;Universidades;Universidades;T31A;45.8
+5;3;2;0;San Bosco;Granada;T31A;7.7
+17;5;3;1;Capri;Centenario;A33;17.7
+17;6;1;2;Granada;Estadio;T30A;15.6
+8;0;8;2;UniValle;Calima;A33;54.7
+5;5;9;1;Terminal;Capri;T31A;36.3
+21;5;4;0;Capri;Calima;P1;13.9
+12;6;6;0;Granada;Terminal;T31A;24.0
+6;0;9;2;Menga;Terminal;A33;44.8
+12;5;6;1;Centenario;Estadio;P1;26.3
+11;3;9;2;Centenario;Terminal;A33;48.1
+6;3;4;1;San Bosco;Salomia;A33;20.2
+7;3;8;0;Centenario;Centenario;T30A;43.4
+22;0;9;1;Salomia;Menga;P1;41.0
+16;5;4;0;Granada;Capri;T31A;15.6
+5;0;5;1;San Bosco;Calima;A33;23.3
+16;3;8;2;Calima;Estadio;T31A;45.7
+9;6;6;0;Salomia;Salomia;T30A;27.7
+21;5;7;2;Centenario;Estadio;T30A;34.1
+20;5;3;2;Universidades;Salomia;P1;18.7
+19;4;7;0;Universidades;Centenario;T30A;38.8
+19;4;8;0;Salomia;Terminal;T30A;40.7
+9;1;6;2;Menga;Terminal;T31A;40.4
+18;2;9;2;Centenario;Centenario;T30A;59.4
+6;4;6;2;Menga;Centenario;T30A;33.4
+15;0;9;2;Menga;Granada;A33;47.6
+11;4;4;0;Granada;San Bosco;T30A;18.4
+10;1;8;0;Terminal;Centenario;A33;33.9
+6;5;4;2;Granada;Estadio;T30A;27.7
+10;1;2;1;Estadio;Granada;T30A;11.7
+22;5;9;1;UniValle;Capri;P1;36.7
+6;6;5;0;Salomia;Granada;P1;17.6
+22;6;4;2;Capri;UniValle;A33;25.5
+19;5;2;2;UniValle;Terminal;T30A;21.5
+6;2;1;0;Calima;UniValle;T31A;4.3
+10;4;7;1;Granada;Estadio;P1;34.1
+5;0;6;1;Granada;Calima;T31A;27.2
+19;0;2;1;San Bosco;Calima;P1;15.7
+14;3;8;0;UniValle;Centenario;P1;32.3
+21;5;4;1;San Bosco;Capri;T30A;20.5
+9;0;8;0;Capri;Granada;P1;42.9
+8;2;7;0;San Bosco;Calima;T31A;37.7
+14;5;5;2;UniValle;Salomia;P1;24.9
+21;2;8;1;Salomia;Centenario;A33;35.0
+14;0;9;0;Centenario;Salomia;T30A;41.5
+21;0;5;1;Centenario;Capri;T30A;26.3
+9;3;5;1;Calima;Menga;A33;33.1
+6;0;2;2;Granada;Terminal;A33;16.6
+10;5;5;1;Capri;Granada;A33;24.6
+6;6;3;2;Granada;Centenario;P1;22.1
+17;5;7;0;Estadio;Estadio;T30A;29.6
+15;5;5;1;Calima;Universidades;A33;20.7
+15;3;8;0;Terminal;Universidades;P1;32.1
+20;3;1;1;San Bosco;Universidades;A33;9.1
+15;0;3;0;Universidades;Calima;T31A;12.9
+19;1;3;1;UniValle;Menga;T31A;20.8
+20;1;9;1;Granada;Menga;T30A;45.4
+15;3;5;1;San Bosco;Granada;P1;24.6
+20;0;9;1;Capri;Granada;T31A;40.6
+12;1;9;1;Granada;Menga;T31A;42.8
+8;0;1;1;Terminal;Capri;P1;7.1
+12;0;2;1;Centenario;Granada;A33;14.8
+8;0;5;1;Calima;Capri;P1;32.5
+7;4;4;1;Calima;Centenario;A33;26.2
+7;5;9;0;Centenario;UniValle;T31A;41.0
+22;0;7;2;Granada;Salomia;T31A;41.2
+9;4;6;1;Capri;Terminal;T31A;39.5
+22;3;7;2;Calima;Centenario;T30A;38.9
+14;1;1;1;Calima;Granada;T30A;10.4
+10;5;1;1;Terminal;Menga;T30A;10.3
+5;6;8;0;UniValle;Salomia;P1;29.2
+9;1;2;0;Capri;Salomia;T31A;10.5
+13;5;9;2;Capri;San Bosco;T31A;42.9
+16;6;7;0;Salomia;Centenario;P1;22.9
+18;1;6;0;Centenario;Menga;T30A;31.6
+6;5;1;2;Salomia;Terminal;P1;13.1
+21;1;1;0;Centenario;Menga;T30A;3.4
+18;1;2;1;Calima;Granada;T31A;12.0
+17;6;6;2;Centenario;Estadio;A33;34.7
+13;1;6;2;Universidades;UniValle;T30A;34.2
+19;1;2;1;Salomia;Capri;T31A;17.3
+19;6;1;0;Calima;Estadio;T31A;5.0
+15;3;5;2;Menga;UniValle;A33;32.9
+20;0;5;2;Estadio;Estadio;T31A;33.5
+21;2;2;1;Estadio;Capri;T31A;14.1
+8;4;6;1;Capri;Calima;T30A;38.0
+5;2;9;0;Universidades;Menga;T30A;35.9
+12;2;2;2;Terminal;Estadio;A33;22.4
+21;5;2;0;UniValle;Granada;A33;4.3
+7;0;3;0;Salomia;Terminal;T31A;16.6
+19;5;7;1;Menga;Centenario;T30A;37.9
+19;0;6;2;Calima;Universidades;A33;43.2
+18;6;8;2;Universidades;Granada;A33;43.4
+18;6;8;2;Capri;Capri;P1;44.9
+6;0;6;1;Salomia;Terminal;A33;28.6
+17;1;3;1;Universidades;Granada;T31A;16.8
+18;3;3;1;Salomia;Salomia;T30A;21.0
+11;1;1;1;UniValle;Menga;A33;7.8
+7;3;7;1;UniValle;Terminal;P1;46.2
+19;5;5;2;Terminal;Salomia;T30A;33.5
+18;3;4;0;Estadio;Granada;A33;21.1
+15;5;4;2;Centenario;UniValle;P1;23.3
+19;6;4;0;San Bosco;San Bosco;A33;18.1
+17;2;6;1;San Bosco;UniValle;T30A;36.0
+22;6;8;0;Salomia;Menga;T30A;28.7
+10;6;8;2;Terminal;Terminal;T30A;42.4
+7;2;5;2;San Bosco;Terminal;T31A;35.2
+19;3;6;0;Centenario;Menga;A33;31.2
+9;3;4;1;Capri;Salomia;T31A;28.3
+14;5;9;1;San Bosco;San Bosco;T30A;36.3
+11;1;8;2;Granada;Granada;P1;46.8
+21;5;1;0;Calima;Centenario;A33;4.9
+11;1;2;1;Terminal;Capri;T31A;12.0
+16;6;9;1;Capri;UniValle;A33;37.5
+21;2;8;2;Universidades;UniValle;P1;42.2
+17;6;3;1;Capri;Universidades;T31A;16.8
+8;0;8;0;Estadio;San Bosco;T30A;43.4
+14;3;1;2;Universidades;Capri;T31A;16.7
+7;1;4;2;Menga;UniValle;A33;33.3
+13;5;3;0;Calima;Capri;A33;10.7
+17;2;6;2;Calima;Centenario;A33;43.1
+22;1;7;1;Calima;Granada;A33;34.9
+19;5;4;1;Calima;Terminal;T30A;20.5
+8;3;7;0;Salomia;Capri;T31A;37.9
+19;6;9;1;Calima;UniValle;T30A;45.0
+6;3;2;0;Centenario;Salomia;T30A;9.9
+19;4;3;0;Calima;San Bosco;T30A;14.6
+12;0;5;1;Calima;Menga;A33;24.2
+12;4;3;0;Terminal;Estadio;A33;12.5
+21;2;8;1;Salomia;Calima;A33;37.3
+16;1;8;2;UniValle;Calima;T31A;43.0
+14;2;8;2;Capri;Estadio;P1;43.4
+13;6;9;0;Capri;Capri;A33;31.4
+9;5;4;1;Universidades;San Bosco;T31A;25.5
+10;3;5;1;Terminal;Capri;A33;28.8
+6;4;5;2;Granada;Centenario;A33;32.7
+17;4;8;2;Capri;Centenario;T30A;48.5
+10;6;7;1;San Bosco;Centenario;T30A;28.7
+9;4;9;0;Granada;Menga;T30A;48.8
+5;6;8;2;Calima;San Bosco;T31A;34.9
+10;2;2;0;Calima;Estadio;P1;6.6
+10;3;4;0;Salomia;Centenario;P1;16.4
+20;1;6;2;Granada;Centenario;T31A;34.3
+8;5;2;0;San Bosco;Capri;A33;9.3
+15;1;7;0;Salomia;Universidades;T31A;26.6
+13;2;3;1;Centenario;UniValle;A33;16.7
+7;5;3;0;Universidades;Salomia;T31A;14.2
+12;4;2;1;Granada;Terminal;T31A;13.4
+9;0;8;2;Terminal;Salomia;T31A;54.6
+8;2;6;2;Calima;Menga;P1;43.5
+10;2;1;1;Calima;Capri;T30A;8.4
+6;3;1;2;Estadio;Granada;T31A;14.4
+15;1;7;0;Salomia;Centenario;P1;27.8
+8;2;8;0;UniValle;San Bosco;T30A;43.1
+19;2;5;0;UniValle;Capri;T30A;24.1
+10;4;5;2;Salomia;San Bosco;T31A;33.1
+21;4;4;0;Terminal;Terminal;A33;16.3
+10;5;6;2;Menga;Universidades;A33;33.5
+6;6;6;0;Salomia;Salomia;A33;22.0
+19;6;3;1;Terminal;UniValle;T31A;16.6
+15;0;9;2;Universidades;Terminal;A33;48.3
+12;6;7;2;Calima;Terminal;P1;36.6
+17;3;1;0;San Bosco;Salomia;P1;5.1
+16;0;7;2;Menga;Terminal;P1;39.5
+9;5;5;2;Granada;Granada;P1;32.1
+10;4;5;1;Menga;Granada;T30A;26.0
+8;6;2;1;San Bosco;Calima;P1;14.8
+5;1;4;0;Estadio;Calima;A33;15.6
+21;4;6;1;Calima;Granada;T31A;28.0
+16;3;7;0;UniValle;Estadio;A33;32.0
+19;4;5;0;Terminal;Universidades;P1;27.5
+5;3;9;0;Salomia;San Bosco;T30A;36.7
+18;3;3;2;Salomia;Universidades;P1;26.2
+10;3;1;1;UniValle;Menga;T31A;6.2
+9;5;4;0;Menga;Terminal;A33;14.6
+15;3;9;1;Calima;UniValle;T31A;45.0
+8;3;4;0;Capri;Terminal;T31A;22.3
+17;1;2;1;Terminal;Universidades;T31A;15.4
+15;0;5;1;Centenario;Granada;A33;26.5
+7;2;3;0;Universidades;Centenario;P1;22.8
+5;0;9;2;San Bosco;Salomia;T31A;49.5
+10;3;4;1;Menga;Menga;A33;19.7
+22;1;6;2;Granada;Granada;T30A;31.8
+14;4;2;2;Estadio;Universidades;A33;20.5
+9;1;6;0;Salomia;Salomia;T30A;34.5
+14;3;3;0;Menga;UniValle;A33;13.8
+16;1;9;0;Estadio;Centenario;P1;36.2
+6;6;2;1;San Bosco;Universidades;T31A;12.9
+17;1;9;0;Salomia;San Bosco;P1;45.8
+12;3;5;0;Salomia;Capri;A33;22.3
+6;5;8;1;Capri;Salomia;T31A;35.5
+5;6;2;1;Centenario;Universidades;T30A;11.1
+9;1;6;0;Menga;Granada;A33;35.0
+13;2;3;0;Calima;San Bosco;T31A;12.8
+21;2;5;0;UniValle;Estadio;T30A;22.0
+13;1;8;0;UniValle;Salomia;T30A;31.0
+15;5;1;2;Universidades;Centenario;P1;14.0
+19;4;5;2;Granada;San Bosco;A33;34.9
+10;3;3;0;Estadio;Granada;T30A;13.5
+7;2;4;2;Menga;Universidades;T31A;34.8
+21;4;2;1;Terminal;Terminal;T30A;14.0
+9;1;9;2;Granada;UniValle;T30A;57.3
+16;4;3;2;Capri;Centenario;P1;23.9
+22;6;2;0;Salomia;Terminal;P1;7.9
+18;0;9;2;Calima;Centenario;T31A;61.4
+15;2;7;2;Menga;Capri;P1;39.9
+13;1;6;2;Centenario;Centenario;T30A;34.0
+6;3;1;2;Granada;San Bosco;T30A;15.7
+16;5;5;1;Granada;Capri;P1;22.6
+7;6;3;0;Calima;UniValle;T30A;14.1
+7;1;1;0;Universidades;San Bosco;T30A;3.6
+5;3;4;1;Estadio;Calima;T31A;21.6
+12;5;2;2;Estadio;Granada;P1;17.2
+12;5;2;1;Granada;San Bosco;T30A;11.9
+15;1;3;2;San Bosco;Granada;P1;21.4
+13;6;8;1;Granada;Terminal;T31A;34.1
+9;4;8;0;Granada;Menga;P1;41.8
+18;4;7;0;Calima;Salomia;T30A;34.4
+7;5;6;0;Salomia;Menga;P1;29.3
+9;4;9;2;Calima;Universidades;T30A;60.4
+9;0;4;2;Menga;Salomia;T30A;29.2
+18;5;1;1;Granada;Centenario;T30A;5.8
+8;5;8;1;Estadio;Salomia;T31A;40.1
+17;3;7;0;Terminal;Estadio;P1;36.5
+14;4;7;2;Estadio;Salomia;T31A;41.7
+22;6;3;1;Centenario;UniValle;P1;15.4
+12;5;4;2;UniValle;Menga;T31A;22.7
+12;6;9;2;Centenario;Terminal;A33;42.4
+11;0;6;0;Universidades;Granada;T30A;25.0
+12;3;5;0;Capri;Universidades;T30A;18.2
+18;1;3;2;Menga;Salomia;T31A;23.0
+10;6;9;2;Menga;Universidades;A33;39.4
+5;5;5;2;Universidades;Terminal;T30A;32.8
+19;0;5;2;Terminal;Universidades;P1;38.0
+5;2;4;0;Capri;Centenario;T31A;15.6
+21;0;4;1;Salomia;Terminal;T30A;24.0
+5;0;1;0;Granada;Centenario;T30A;3.1
+19;3;7;1;Capri;Salomia;T31A;43.9
+6;1;9;2;Terminal;Terminal;T31A;48.0
+18;2;3;1;San Bosco;Salomia;P1;19.4
+12;4;2;0;UniValle;Centenario;P1;9.8
+12;4;3;0;Capri;Estadio;T30A;12.9
+11;6;1;2;Capri;Estadio;T30A;14.4
+10;0;6;0;UniValle;Terminal;T31A;25.6
+10;3;7;2;Granada;Estadio;T30A;39.8
+7;3;2;0;Capri;Granada;T30A;12.5
+11;4;8;0;UniValle;Granada;T31A;38.8
+12;6;6;2;UniValle;Estadio;T30A;33.9
+14;6;4;1;UniValle;Estadio;T30A;19.7
+19;6;5;0;Calima;Calima;A33;21.7
+19;2;8;1;Terminal;Calima;P1;46.6
+5;1;3;0;Calima;Salomia;T31A;10.1
+11;2;3;0;San Bosco;Terminal;A33;13.9
+8;5;4;0;Centenario;Capri;P1;16.5
+10;5;1;0;Salomia;Capri;P1;3.0
+5;1;9;1;Calima;Estadio;P1;44.1
+9;4;8;1;Calima;Universidades;A33;48.2
+5;1;8;0;Centenario;Estadio;A33;32.6
+8;3;6;0;Terminal;Calima;P1;30.4
+6;5;7;1;Centenario;Salomia;T30A;32.4
+14;0;6;2;Salomia;Estadio;T30A;33.5
+9;0;9;2;Universidades;Menga;A33;58.0
+14;4;3;1;UniValle;Universidades;A33;14.0
+5;3;3;0;Menga;Menga;A33;12.6
+10;2;3;0;Salomia;Salomia;P1;11.9
+17;3;3;2;San Bosco;Salomia;T30A;26.1
+19;0;9;2;Granada;Granada;A33;54.9
+8;0;4;1;San Bosco;San Bosco;A33;28.3
+17;5;7;2;UniValle;Menga;T31A;37.6
+19;3;9;1;Salomia;Granada;P1;52.1
+12;3;7;2;San Bosco;Calima;T31A;39.6
+9;0;9;2;San Bosco;UniValle;T30A;59.3
+19;2;3;2;Centenario;Universidades;T31A;26.1
+8;4;4;0;Universidades;UniValle;T31A;23.4
+16;6;8;0;Universidades;Terminal;T31A;31.2
+17;4;6;0;Salomia;Centenario;P1;31.2
+6;3;5;2;UniValle;Calima;T30A;29.1
+8;4;4;1;Calima;Calima;T31A;28.0
+8;0;8;1;Estadio;UniValle;P1;48.1
+15;0;1;1;Capri;Menga;T30A;11.7
+9;3;9;1;Menga;San Bosco;A33;52.9
+15;3;1;0;Capri;Menga;T31A;3.0
+14;6;8;0;Terminal;UniValle;T30A;28.8
+12;6;4;2;Universidades;Terminal;T31A;20.8
+10;5;9;2;Salomia;Menga;A33;41.2
+10;3;5;1;Capri;Capri;T30A;25.3
+12;2;3;0;UniValle;Menga;P1;13.0
+19;4;9;1;Menga;Salomia;T30A;50.3
+18;3;9;2;Capri;Centenario;P1;55.5
+15;1;4;2;Menga;Granada;T30A;29.1
+16;5;4;1;Granada;Universidades;P1;19.3
+17;1;8;2;UniValle;Centenario;A33;53.7
+12;0;2;1;Estadio;Menga;A33;12.3
+22;6;9;0;Centenario;San Bosco;A33;32.0
+5;4;6;1;San Bosco;Centenario;T30A;30.6
+19;3;9;0;Menga;San Bosco;A33;50.7
+12;1;8;0;UniValle;Centenario;T31A;33.2
+15;4;7;2;Menga;Menga;A33;39.1
+16;0;1;2;Menga;Estadio;P1;16.4
+16;6;3;2;Calima;Calima;P1;20.0
+8;2;2;1;Calima;Centenario;P1;16.5
+20;5;5;1;Centenario;Menga;T30A;24.9
+8;4;5;2;UniValle;Calima;T31A;36.1
+9;4;5;1;Centenario;Capri;A33;33.0
+9;2;4;2;Calima;UniValle;T31A;35.3
+12;4;5;1;Terminal;Capri;T31A;27.8
+14;0;3;0;Estadio;Menga;P1;13.2
+21;0;1;0;Centenario;San Bosco;P1;3.8
+13;2;5;2;Salomia;Estadio;P1;29.8
+18;5;9;1;Centenario;Terminal;T30A;43.2
+12;3;9;1;UniValle;Calima;T31A;45.8
+13;1;4;0;UniValle;Granada;T31A;19.4
+15;3;3;0;Terminal;Calima;T30A;11.3
+5;4;1;2;Universidades;Salomia;T30A;14.9
+18;1;2;0;Universidades;Universidades;T30A;10.7
+9;2;8;2;Calima;Menga;T31A;56.0
+18;2;1;0;Salomia;Capri;T31A;6.0
+8;5;8;0;Calima;Granada;P1;37.1
+5;1;7;1;Granada;San Bosco;P1;33.3
+12;0;8;0;Granada;San Bosco;T31A;34.3
+19;1;6;0;San Bosco;San Bosco;P1;30.8
+19;4;9;2;Granada;Terminal;T30A;57.7
+13;0;3;0;Universidades;Salomia;A33;12.4
+13;6;4;2;Estadio;San Bosco;P1;23.5
+14;6;6;0;Granada;San Bosco;T31A;19.5
+13;6;8;0;Calima;Menga;P1;29.6
+7;2;5;2;Menga;Salomia;P1;37.4
+15;1;3;1;UniValle;Centenario;P1;21.2
+10;6;6;2;Estadio;Estadio;A33;29.4
+6;3;4;2;Estadio;Estadio;T30A;28.1
+11;5;9;2;Centenario;Salomia;T31A;42.0
+22;3;3;1;Calima;Universidades;A33;21.8
+6;6;4;0;UniValle;Terminal;T31A;15.4
+21;5;7;2;Universidades;Granada;T31A;35.6
+15;4;7;2;Estadio;Calima;T31A;39.2
+16;3;4;1;San Bosco;Menga;A33;20.4
+11;1;6;2;Calima;UniValle;T30A;35.8
+10;1;3;0;Estadio;Estadio;T31A;9.8
+5;3;6;1;Salomia;Centenario;T30A;27.5
+21;6;2;0;Centenario;Salomia;T30A;9.2
+15;1;8;0;UniValle;Granada;P1;30.1
+22;4;2;1;Granada;Salomia;A33;12.8
+21;0;7;2;Estadio;Calima;A33;37.3
+11;6;9;0;Calima;Granada;P1;31.3
+21;4;1;0;Granada;Estadio;P1;4.6
+13;5;8;0;San Bosco;San Bosco;T30A;30.5
+21;4;7;0;Granada;Salomia;T31A;31.8
+12;6;6;1;Salomia;Centenario;A33;24.6
+21;5;6;1;Universidades;UniValle;T31A;25.5
+11;6;6;0;Estadio;Estadio;T31A;29.5
+5;1;9;2;Capri;Centenario;P1;47.3
+17;0;2;0;Capri;Capri;T31A;8.7
+21;6;1;2;Granada;UniValle;T30A;12.1
+17;6;6;0;Terminal;Universidades;P1;26.3
+20;1;8;2;UniValle;Terminal;T31A;42.8
+12;2;3;0;Centenario;Estadio;P1;12.1
+22;1;1;2;Capri;San Bosco;T30A;14.2
+5;5;9;0;Terminal;Estadio;T30A;32.1
+18;1;1;0;Capri;Calima;T31A;3.3
+19;1;3;2;Terminal;Granada;P1;26.5
+22;0;8;1;UniValle;Salomia;T31A;38.8
+6;1;3;2;Menga;Granada;T31A;23.6
+21;6;4;1;Capri;Granada;P1;15.9
+22;0;8;0;Salomia;Estadio;T31A;33.9
+10;3;1;2;Estadio;Calima;T30A;10.2
+8;2;6;2;Terminal;Salomia;P1;42.4
+5;0;1;2;Estadio;Salomia;P1;15.5
+12;5;1;1;Calima;Granada;P1;10.7
+11;3;8;1;Calima;Universidades;P1;39.3
+7;0;4;0;Centenario;Terminal;T31A;23.2
+14;0;1;1;UniValle;Calima;T31A;8.6
+14;2;7;1;Terminal;Universidades;T30A;33.4
+18;6;5;0;San Bosco;Menga;A33;27.7
+6;5;5;2;Calima;Menga;A33;29.5
+5;4;1;2;UniValle;UniValle;T30A;11.9
+22;4;6;0;Calima;Granada;A33;21.7
+11;0;9;2;Calima;Salomia;T30A;46.9
+12;1;9;1;San Bosco;Estadio;T31A;45.2
+5;5;8;0;Capri;Salomia;P1;28.7
+7;3;5;0;Granada;Centenario;P1;22.9
+12;1;1;0;Centenario;Centenario;T31A;3.8
+19;1;9;2;Menga;Salomia;P1;57.2
+9;5;1;0;Calima;Centenario;P1;3.0
+7;6;8;0;Calima;San Bosco;A33;37.2
+5;0;5;0;Salomia;Salomia;T31A;19.0
+19;0;3;2;Menga;UniValle;A33;22.1
+12;0;7;1;San Bosco;Universidades;A33;37.6
+6;0;7;0;Estadio;Menga;P1;27.3
+7;4;9;1;Terminal;Salomia;P1;52.8
+18;0;7;2;Calima;Salomia;T31A;45.4
+18;4;3;2;Granada;Centenario;P1;25.8
+15;4;1;2;Terminal;San Bosco;P1;17.7
+20;6;8;2;Menga;Calima;T31A;36.2
+8;0;3;1;Terminal;Estadio;P1;20.8
+9;2;8;0;Capri;Calima;A33;43.9
+18;3;8;2;Calima;Estadio;T31A;50.3
+20;1;5;2;Terminal;Terminal;P1;30.4
+22;4;1;1;Estadio;Salomia;T30A;10.4
+11;5;7;1;Estadio;San Bosco;T31A;28.5
+14;5;5;2;Calima;Capri;T31A;27.2
+11;3;8;0;Universidades;Centenario;T30A;32.7
+5;5;9;0;Estadio;Granada;P1;31.9
+20;2;7;2;Terminal;Centenario;P1;39.9
+8;5;7;1;Centenario;Menga;T31A;38.7
+22;1;1;2;UniValle;Universidades;T31A;18.1
+6;1;4;2;Estadio;Menga;P1;21.5
+5;4;2;1;Menga;Universidades;P1;13.1
+19;0;2;2;Universidades;Terminal;A33;17.8
+9;6;2;2;Terminal;Calima;T31A;18.5
+15;2;4;2;San Bosco;UniValle;T31A;28.6
+14;4;1;1;Salomia;Salomia;T30A;11.6
+6;2;4;0;San Bosco;Capri;A33;19.3
+7;0;2;0;Capri;Universidades;P1;13.4
+16;5;5;1;Salomia;Granada;A33;22.5
+9;5;3;0;Capri;Universidades;P1;16.7
+9;6;8;2;Salomia;UniValle;P1;50.3
+10;0;4;0;Salomia;Menga;A33;17.1
+13;4;1;2;UniValle;San Bosco;T31A;16.6
+6;6;1;0;Granada;Menga;P1;3.7
+16;0;3;1;Menga;Terminal;A33;20.4
+7;3;9;0;San Bosco;San Bosco;T30A;48.8
+16;1;7;0;Estadio;Menga;A33;28.2
+21;6;2;0;Terminal;Granada;T30A;4.9
+14;6;9;1;Universidades;Centenario;P1;36.8
+18;4;2;0;Menga;Menga;A33;10.7
+21;2;3;1;Capri;Granada;A33;15.7
+22;3;2;2;UniValle;Granada;T30A;17.9
+21;4;3;0;Capri;Centenario;A33;11.5
+18;0;6;1;Granada;San Bosco;A33;34.3
+13;0;9;1;Universidades;Calima;P1;44.9
+12;0;9;0;UniValle;Estadio;A33;40.2
+6;0;7;2;Capri;Salomia;T31A;41.5
